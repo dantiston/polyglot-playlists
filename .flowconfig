@@ -1,0 +1,15 @@
+[options]
+all=true
+babel_loose_array_spread=true
+enums=true
+exact_by_default=true
+experimental.const_params=true
+react.runtime=automatic
+
+[strict]
+nonstrict-import
+sketchy-null
+unclear-type
+unsafe-getters-setters
+untyped-import
+untyped-type-import
