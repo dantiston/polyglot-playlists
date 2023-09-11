@@ -1,0 +1,1041 @@
+{
+    "eng": {
+        "#ffffff": {
+            "orths": [
+                "red"
+            ],
+            "transliterations": []
+        },
+        "#000000": {
+            "orths": [
+                "green"
+            ],
+            "transliterations": []
+        },
+        "#0000ff": {
+            "orths": [
+                "blue"
+            ],
+            "transliterations": []
+        },
+        "#008000": {
+            "orths": [
+                "yellow"
+            ],
+            "transliterations": []
+        },
+        "#ff0000": {
+            "orths": [
+                "orange"
+            ],
+            "transliterations": []
+        },
+        "#ffff00": {
+            "orths": [
+                "purple"
+            ],
+            "transliterations": []
+        },
+        "#a52a2a": {
+            "orths": [
+                "pink"
+            ],
+            "transliterations": []
+        },
+        "#800080": {
+            "orths": [
+                "brown"
+            ],
+            "transliterations": []
+        },
+        "#ffc0cb": {
+            "orths": [
+                "black"
+            ],
+            "transliterations": []
+        },
+        "#ffa500": {
+            "orths": [
+                "white"
+            ],
+            "transliterations": []
+        },
+        "#808080": {
+            "orths": [
+                "gray",
+                "grey"
+            ],
+            "transliterations": []
+        }
+    },
+    "cmn": {
+        "#ffffff": {
+            "orths": [
+                "\u7ea2\u8272"
+            ],
+            "transliterations": [
+                "h\u00f3ngs\u00e8"
+            ]
+        },
+        "#000000": {
+            "orths": [
+                "\u7eff\u8272"
+            ],
+            "transliterations": [
+                "l\u01dcs\u00e8"
+            ]
+        },
+        "#0000ff": {
+            "orths": [
+                "\u84dd\u8272"
+            ],
+            "transliterations": [
+                "l\u00e1n s\u00e8"
+            ]
+        },
+        "#008000": {
+            "orths": [
+                "\u9ec4\u8272"
+            ],
+            "transliterations": [
+                "hu\u00e1ngs\u00e8"
+            ]
+        },
+        "#ff0000": {
+            "orths": [
+                "\u6a59\u8272"
+            ],
+            "transliterations": [
+                "ch\u00e9ngs\u00e8"
+            ]
+        },
+        "#ffff00": {
+            "orths": [
+                "\u7d2b\u8272"
+            ],
+            "transliterations": [
+                "z\u01d0s\u00e8"
+            ]
+        },
+        "#a52a2a": {
+            "orths": [
+                "\u7c89\u7ea2\u8272"
+            ],
+            "transliterations": [
+                "f\u011bnh\u00f3ngs\u00e8"
+            ]
+        },
+        "#800080": {
+            "orths": [
+                "\u68d5\u8272"
+            ],
+            "transliterations": [
+                "z\u014dngs\u00e8"
+            ]
+        },
+        "#ffc0cb": {
+            "orths": [
+                "\u9ed1\u8272"
+            ],
+            "transliterations": [
+                "h\u0113is\u00e8"
+            ]
+        },
+        "#ffa500": {
+            "orths": [
+                "\u767d\u8272"
+            ],
+            "transliterations": [
+                "b\u00e1is\u00e8"
+            ]
+        },
+        "#808080": {
+            "orths": [
+                "\u7070\u8272"
+            ],
+            "transliterations": [
+                "hu\u012bs\u00e8"
+            ]
+        }
+    },
+    "hin": {
+        "#ffffff": {
+            "orths": [
+                "\u0932\u093e\u0932"
+            ],
+            "transliterations": [
+                "l\u0101l"
+            ]
+        },
+        "#000000": {
+            "orths": [
+                "\u0939\u0930\u093e"
+            ],
+            "transliterations": [
+                "har\u0101"
+            ]
+        },
+        "#0000ff": {
+            "orths": [
+                "\u0928\u0940\u0932\u093e"
+            ],
+            "transliterations": [
+                "n\u012bl\u0101"
+            ]
+        },
+        "#008000": {
+            "orths": [
+                "\u092a\u0940\u0932\u093e"
+            ],
+            "transliterations": [
+                "p\u012bl\u0101"
+            ]
+        },
+        "#ff0000": {
+            "orths": [
+                "\u0928\u093e\u0930\u0902\u0917\u0940"
+            ],
+            "transliterations": [
+                "n\u0101ra\u1e45g\u012b"
+            ]
+        },
+        "#ffff00": {
+            "orths": [
+                "\u092c\u0948\u0902\u0917\u0928\u0940"
+            ],
+            "transliterations": [
+                "ba\u1e45gan\u012b"
+            ]
+        },
+        "#a52a2a": {
+            "orths": [
+                "\u0917\u0941\u0932\u093e\u092c\u0940"
+            ],
+            "transliterations": [
+                "gul\u0101b\u012b"
+            ]
+        },
+        "#800080": {
+            "orths": [
+                "\u092d\u0942\u0930\u093e"
+            ],
+            "transliterations": [
+                "bh\u016br\u0101"
+            ]
+        },
+        "#ffc0cb": {
+            "orths": [
+                "\u0915\u093e\u0932\u093e"
+            ],
+            "transliterations": [
+                "k\u0101l\u0101"
+            ]
+        },
+        "#ffa500": {
+            "orths": [
+                "\u0938\u092b\u0947\u0926"
+            ],
+            "transliterations": [
+                "safed"
+            ]
+        },
+        "#808080": {
+            "orths": [
+                "\u0938\u094d\u0932\u0947\u091f\u0940"
+            ],
+            "transliterations": [
+                "slet\u012b"
+            ]
+        }
+    },
+    "spa": {
+        "#ffffff": {
+            "orths": [
+                "rojo"
+            ],
+            "transliterations": []
+        },
+        "#000000": {
+            "orths": [
+                "verde"
+            ],
+            "transliterations": []
+        },
+        "#0000ff": {
+            "orths": [
+                "azul"
+            ],
+            "transliterations": []
+        },
+        "#008000": {
+            "orths": [
+                "amarillo"
+            ],
+            "transliterations": []
+        },
+        "#ff0000": {
+            "orths": [
+                "naranja"
+            ],
+            "transliterations": []
+        },
+        "#ffff00": {
+            "orths": [
+                "morado / p\u00farpura"
+            ],
+            "transliterations": []
+        },
+        "#a52a2a": {
+            "orths": [
+                "rosa"
+            ],
+            "transliterations": []
+        },
+        "#800080": {
+            "orths": [
+                "marr\u00f3n"
+            ],
+            "transliterations": []
+        },
+        "#ffc0cb": {
+            "orths": [
+                "negro"
+            ],
+            "transliterations": []
+        },
+        "#ffa500": {
+            "orths": [
+                "blanco"
+            ],
+            "transliterations": []
+        },
+        "#808080": {
+            "orths": [
+                "gris"
+            ],
+            "transliterations": []
+        }
+    },
+    "fra": {
+        "#ffffff": {
+            "orths": [
+                "rouge"
+            ],
+            "transliterations": []
+        },
+        "#000000": {
+            "orths": [
+                "vert"
+            ],
+            "transliterations": []
+        },
+        "#0000ff": {
+            "orths": [
+                "bleu"
+            ],
+            "transliterations": []
+        },
+        "#008000": {
+            "orths": [
+                "jaune"
+            ],
+            "transliterations": []
+        },
+        "#ff0000": {
+            "orths": [
+                "orange"
+            ],
+            "transliterations": []
+        },
+        "#ffff00": {
+            "orths": [
+                "violet"
+            ],
+            "transliterations": []
+        },
+        "#a52a2a": {
+            "orths": [
+                "rose"
+            ],
+            "transliterations": []
+        },
+        "#800080": {
+            "orths": [
+                "marron"
+            ],
+            "transliterations": []
+        },
+        "#ffc0cb": {
+            "orths": [
+                "noir"
+            ],
+            "transliterations": []
+        },
+        "#ffa500": {
+            "orths": [
+                "blanc"
+            ],
+            "transliterations": []
+        },
+        "#808080": {
+            "orths": [
+                "gris"
+            ],
+            "transliterations": []
+        }
+    },
+    "ara": {
+        "#ffffff": {
+            "orths": [
+                "\u0623\u062d\u0645\u0631"
+            ],
+            "transliterations": [
+                "a\u1e25mar"
+            ]
+        },
+        "#000000": {
+            "orths": [
+                "\u0623\u062e\u0636\u0631"
+            ],
+            "transliterations": [
+                "akhdar"
+            ]
+        },
+        "#0000ff": {
+            "orths": [
+                "\u0623\u0632\u0631\u0642"
+            ],
+            "transliterations": [
+                "azraq"
+            ]
+        },
+        "#008000": {
+            "orths": [
+                "\u0623\u0635\u0641\u0631"
+            ],
+            "transliterations": [
+                "asfar"
+            ]
+        },
+        "#ff0000": {
+            "orths": [
+                "\u0628\u0631\u062a\u0642\u0627\u0644\u064a"
+            ],
+            "transliterations": [
+                "burtuq\u0101l\u012b"
+            ]
+        },
+        "#ffff00": {
+            "orths": [
+                "\u0628\u0646\u0641\u0633\u062c\u064a"
+            ],
+            "transliterations": [
+                "banafsaji"
+            ]
+        },
+        "#a52a2a": {
+            "orths": [
+                "\u0648\u0631\u062f\u064a"
+            ],
+            "transliterations": [
+                "wardi"
+            ]
+        },
+        "#800080": {
+            "orths": [
+                "\u0628\u0646\u064a"
+            ],
+            "transliterations": [
+                "bunni"
+            ]
+        },
+        "#ffc0cb": {
+            "orths": [
+                "\u0623\u0633\u0648\u062f"
+            ],
+            "transliterations": [
+                "aswad"
+            ]
+        },
+        "#ffa500": {
+            "orths": [
+                "\u0623\u0628\u064a\u0636"
+            ],
+            "transliterations": [
+                "abyad"
+            ]
+        },
+        "#808080": {
+            "orths": [
+                "\u0631\u0645\u0627\u062f\u064a"
+            ],
+            "transliterations": [
+                "rumadi"
+            ]
+        }
+    },
+    "ben": {
+        "#ffffff": {
+            "orths": [
+                "\u09b2\u09be\u09b2"
+            ],
+            "transliterations": [
+                "l\u0101l"
+            ]
+        },
+        "#000000": {
+            "orths": [
+                "\u09b8\u09ac\u09c1\u099c"
+            ],
+            "transliterations": [
+                "shobuj"
+            ]
+        },
+        "#0000ff": {
+            "orths": [
+                "\u09a8\u09c0\u09b2"
+            ],
+            "transliterations": [
+                "nil"
+            ]
+        },
+        "#008000": {
+            "orths": [
+                "\u09b9\u09b2\u09c1\u09a6"
+            ],
+            "transliterations": [
+                "holud"
+            ]
+        },
+        "#ff0000": {
+            "orths": [
+                "\u0995\u09ae\u09b2\u09be"
+            ],
+            "transliterations": [
+                "kamal\u0101"
+            ]
+        },
+        "#ffff00": {
+            "orths": [
+                "\u09ac\u09c7\u0997\u09c1\u09a8\u09c0"
+            ],
+            "transliterations": [
+                "begun\u012b"
+            ]
+        },
+        "#a52a2a": {
+            "orths": [
+                "\u0997\u09cb\u09b2\u09be\u09aa\u09bf"
+            ],
+            "transliterations": [
+                "golapi"
+            ]
+        },
+        "#800080": {
+            "orths": [
+                "\u09ac\u09be\u09a6\u09be\u09ae\u09c0"
+            ],
+            "transliterations": [
+                "badami"
+            ]
+        },
+        "#ffc0cb": {
+            "orths": [
+                "\u0995\u09be\u09b2\u09cb"
+            ],
+            "transliterations": [
+                "kalo"
+            ]
+        },
+        "#ffa500": {
+            "orths": [
+                "\u09b8\u09be\u09a6\u09be"
+            ],
+            "transliterations": [
+                "shada"
+            ]
+        },
+        "#808080": {
+            "orths": [
+                "\u09a7\u09c2\u09b8\u09b0"
+            ],
+            "transliterations": [
+                "dhusar"
+            ]
+        }
+    },
+    "ptg": {
+        "#ffffff": {
+            "orths": [
+                "vermelho"
+            ],
+            "transliterations": []
+        },
+        "#000000": {
+            "orths": [
+                "verde"
+            ],
+            "transliterations": []
+        },
+        "#0000ff": {
+            "orths": [
+                "azul"
+            ],
+            "transliterations": []
+        },
+        "#008000": {
+            "orths": [
+                "amarelo"
+            ],
+            "transliterations": []
+        },
+        "#ff0000": {
+            "orths": [
+                "laranja"
+            ],
+            "transliterations": []
+        },
+        "#ffff00": {
+            "orths": [
+                "roxo"
+            ],
+            "transliterations": []
+        },
+        "#a52a2a": {
+            "orths": [
+                "rosa"
+            ],
+            "transliterations": []
+        },
+        "#800080": {
+            "orths": [
+                "marrom"
+            ],
+            "transliterations": []
+        },
+        "#ffc0cb": {
+            "orths": [
+                "preto"
+            ],
+            "transliterations": []
+        },
+        "#ffa500": {
+            "orths": [
+                "branco"
+            ],
+            "transliterations": []
+        },
+        "#808080": {
+            "orths": [
+                "cinza"
+            ],
+            "transliterations": []
+        }
+    },
+    "rus": {
+        "#ffffff": {
+            "orths": [
+                "\u043a\u0440\u0430\u0441\u043d\u044b\u0439"
+            ],
+            "transliterations": [
+                "krasnyy"
+            ]
+        },
+        "#000000": {
+            "orths": [
+                "\u0437\u0435\u043b\u0435\u043d\u044b\u0439"
+            ],
+            "transliterations": [
+                "zelenyy"
+            ]
+        },
+        "#0000ff": {
+            "orths": [
+                "\u0441\u0438\u043d\u0438\u0439"
+            ],
+            "transliterations": [
+                "siniy"
+            ]
+        },
+        "#008000": {
+            "orths": [
+                "\u0436\u0435\u043b\u0442\u044b\u0439"
+            ],
+            "transliterations": [
+                "zheltyy"
+            ]
+        },
+        "#ff0000": {
+            "orths": [
+                "\u043e\u0440\u0430\u043d\u0436\u0435\u0432\u044b\u0439"
+            ],
+            "transliterations": [
+                "oranzhevy"
+            ]
+        },
+        "#ffff00": {
+            "orths": [
+                "\u0444\u0438\u043e\u043b\u0435\u0442\u043e\u0432\u044b\u0439"
+            ],
+            "transliterations": [
+                "fioletovyy"
+            ]
+        },
+        "#a52a2a": {
+            "orths": [
+                "\u0440\u043e\u0437\u043e\u0432\u044b\u0439"
+            ],
+            "transliterations": [
+                "rozovyy"
+            ]
+        },
+        "#800080": {
+            "orths": [
+                "\u043a\u043e\u0440\u0438\u0447\u043d\u0435\u0432\u044b\u0439"
+            ],
+            "transliterations": [
+                "korichnevyy"
+            ]
+        },
+        "#ffc0cb": {
+            "orths": [
+                "\u0447\u0435\u0440\u043d\u044b\u0439"
+            ],
+            "transliterations": [
+                "chernyy"
+            ]
+        },
+        "#ffa500": {
+            "orths": [
+                "\u0431\u0435\u043b\u044b\u0439"
+            ],
+            "transliterations": [
+                "belyy"
+            ]
+        },
+        "#808080": {
+            "orths": [
+                "\u0441\u0435\u0440\u044b\u0439"
+            ],
+            "transliterations": [
+                "seryy"
+            ]
+        }
+    },
+    "urd": {
+        "#ffffff": {
+            "orths": [
+                "\u0633\u0631\u062e"
+            ],
+            "transliterations": [
+                "sarakh"
+            ]
+        },
+        "#000000": {
+            "orths": [
+                "\u0633\u0628\u0632"
+            ],
+            "transliterations": [
+                "sabz"
+            ]
+        },
+        "#0000ff": {
+            "orths": [
+                "\u0646\u06cc\u0644\u0627"
+            ],
+            "transliterations": [
+                "neela"
+            ]
+        },
+        "#008000": {
+            "orths": [
+                "\u067e\u06cc\u0644\u0627"
+            ],
+            "transliterations": [
+                "peela"
+            ]
+        },
+        "#ff0000": {
+            "orths": [
+                "\u0646\u0627\u0631\u0646\u06af\u06cc"
+            ],
+            "transliterations": [
+                "n\u0101ra\u1e45g\u012b"
+            ]
+        },
+        "#ffff00": {
+            "orths": [
+                "\u062c\u0627\u0645\u0646\u06cc"
+            ],
+            "transliterations": [
+                "jamn\u012b"
+            ]
+        },
+        "#a52a2a": {
+            "orths": [
+                "\u06af\u0644\u0627\u0628\u06cc"
+            ],
+            "transliterations": [
+                "gul\u0101b\u012b"
+            ]
+        },
+        "#800080": {
+            "orths": [
+                "\u0628\u06be\u0648\u0631\u0627"
+            ],
+            "transliterations": [
+                "bh\u016br\u0101"
+            ]
+        },
+        "#ffc0cb": {
+            "orths": [
+                "\u06a9\u0627\u0644\u0627"
+            ],
+            "transliterations": [
+                "k\u0101l\u0101"
+            ]
+        },
+        "#ffa500": {
+            "orths": [
+                "\u0633\u0641\u06cc\u062f"
+            ],
+            "transliterations": [
+                "safed"
+            ]
+        },
+        "#808080": {
+            "orths": [
+                "\u0633\u0631\u0645\u0626\u06cc"
+            ],
+            "transliterations": [
+                "sarm\u012b"
+            ]
+        }
+    },
+    "idn": {
+        "#ffffff": {
+            "orths": [
+                "merah"
+            ],
+            "transliterations": []
+        },
+        "#000000": {
+            "orths": [
+                "hijau"
+            ],
+            "transliterations": []
+        },
+        "#0000ff": {
+            "orths": [
+                "biru"
+            ],
+            "transliterations": []
+        },
+        "#008000": {
+            "orths": [
+                "kuning"
+            ],
+            "transliterations": []
+        },
+        "#ff0000": {
+            "orths": [
+                "jingga"
+            ],
+            "transliterations": []
+        },
+        "#ffff00": {
+            "orths": [
+                "ungu"
+            ],
+            "transliterations": []
+        },
+        "#a52a2a": {
+            "orths": [
+                "merah muda"
+            ],
+            "transliterations": []
+        },
+        "#800080": {
+            "orths": [
+                "coklat"
+            ],
+            "transliterations": []
+        },
+        "#ffc0cb": {
+            "orths": [
+                "hitam"
+            ],
+            "transliterations": []
+        },
+        "#ffa500": {
+            "orths": [
+                "putih"
+            ],
+            "transliterations": []
+        },
+        "#808080": {
+            "orths": [
+                "abu-abu"
+            ],
+            "transliterations": []
+        }
+    },
+    "deu": {
+        "#ffffff": {
+            "orths": [
+                "rot"
+            ],
+            "transliterations": []
+        },
+        "#000000": {
+            "orths": [
+                "gr\u00fcn"
+            ],
+            "transliterations": []
+        },
+        "#0000ff": {
+            "orths": [
+                "blau"
+            ],
+            "transliterations": []
+        },
+        "#008000": {
+            "orths": [
+                "gelb"
+            ],
+            "transliterations": []
+        },
+        "#ff0000": {
+            "orths": [
+                "orange"
+            ],
+            "transliterations": []
+        },
+        "#ffff00": {
+            "orths": [
+                "lila / violett"
+            ],
+            "transliterations": []
+        },
+        "#a52a2a": {
+            "orths": [
+                "rosa"
+            ],
+            "transliterations": []
+        },
+        "#800080": {
+            "orths": [
+                "braun"
+            ],
+            "transliterations": []
+        },
+        "#ffc0cb": {
+            "orths": [
+                "schwarz"
+            ],
+            "transliterations": []
+        },
+        "#ffa500": {
+            "orths": [
+                "wei\u00df"
+            ],
+            "transliterations": []
+        },
+        "#808080": {
+            "orths": [
+                "grau"
+            ],
+            "transliterations": []
+        }
+    },
+    "jpn": {
+        "#ffffff": {
+            "orths": [
+                "\u8d64"
+            ],
+            "transliterations": [
+                "aka"
+            ]
+        },
+        "#000000": {
+            "orths": [
+                "\u7dd1"
+            ],
+            "transliterations": [
+                "midori"
+            ]
+        },
+        "#0000ff": {
+            "orths": [
+                "\u9752"
+            ],
+            "transliterations": [
+                "ao"
+            ]
+        },
+        "#008000": {
+            "orths": [
+                "\u9ec4\u8272"
+            ],
+            "transliterations": [
+                "kiiro"
+            ]
+        },
+        "#ff0000": {
+            "orths": [
+                "\u30aa\u30ec\u30f3\u30b8"
+            ],
+            "transliterations": [
+                "orenji"
+            ]
+        },
+        "#ffff00": {
+            "orths": [
+                "\u7d2b"
+            ],
+            "transliterations": [
+                "murasaki"
+            ]
+        },
+        "#a52a2a": {
+            "orths": [
+                "\u30d4\u30f3\u30af"
+            ],
+            "transliterations": [
+                "pinku"
+            ]
+        },
+        "#800080": {
+            "orths": [
+                "\u8336\u8272"
+            ],
+            "transliterations": [
+                "chairo"
+            ]
+        },
+        "#ffc0cb": {
+            "orths": [
+                "\u9ed2"
+            ],
+            "transliterations": [
+                "kuro"
+            ]
+        },
+        "#ffa500": {
+            "orths": [
+                "\u767d"
+            ],
+            "transliterations": [
+                "shiro"
+            ]
+        },
+        "#808080": {
+            "orths": [
+                "\u7070\u8272"
+            ],
+            "transliterations": [
+                "haiiro"
+            ]
+        }
+    }
+}

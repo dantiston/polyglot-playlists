@@ -1,0 +1,856 @@
+{
+    "eng": {
+        "\ud83d\udc31": {
+            "orths": [
+                "cat"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc36": {
+            "orths": [
+                "dog"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc26": {
+            "orths": [
+                "bird"
+            ],
+            "transliterations": []
+        },
+        "\ud83e\udd86": {
+            "orths": [
+                "duck"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc2e": {
+            "orths": [
+                "cow"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc34": {
+            "orths": [
+                "horse"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc37": {
+            "orths": [
+                "pig"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc14": {
+            "orths": [
+                "chicken"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc11": {
+            "orths": [
+                "sheep"
+            ],
+            "transliterations": []
+        }
+    },
+    "cmn": {
+        "\ud83d\udc31": {
+            "orths": [
+                "\u732b"
+            ],
+            "transliterations": [
+                "m\u0101o"
+            ]
+        },
+        "\ud83d\udc36": {
+            "orths": [
+                "\u72d7"
+            ],
+            "transliterations": [
+                "g\u01d2u"
+            ]
+        },
+        "\ud83d\udc26": {
+            "orths": [
+                "\u9e1f"
+            ],
+            "transliterations": [
+                "ni\u01ceo"
+            ]
+        },
+        "\ud83e\udd86": {
+            "orths": [
+                "\u9e2d"
+            ],
+            "transliterations": [
+                "y\u0101"
+            ]
+        },
+        "\ud83d\udc2e": {
+            "orths": [
+                "\u725b"
+            ],
+            "transliterations": [
+                "ni\u00fa"
+            ]
+        },
+        "\ud83d\udc34": {
+            "orths": [
+                "\u9a6c"
+            ],
+            "transliterations": [
+                "m\u01ce"
+            ]
+        },
+        "\ud83d\udc37": {
+            "orths": [
+                "\u732a"
+            ],
+            "transliterations": [
+                "zh\u016b"
+            ]
+        },
+        "\ud83d\udc14": {
+            "orths": [
+                "\u9e21"
+            ],
+            "transliterations": [
+                "j\u012b"
+            ]
+        },
+        "\ud83d\udc11": {
+            "orths": [
+                "\u7f8a"
+            ],
+            "transliterations": [
+                "y\u00e1ng"
+            ]
+        }
+    },
+    "hin": {
+        "\ud83d\udc31": {
+            "orths": [
+                "\u092c\u093f\u0932\u094d\u0932\u0940"
+            ],
+            "transliterations": [
+                "bill\u012b"
+            ]
+        },
+        "\ud83d\udc36": {
+            "orths": [
+                "\u0915\u0941\u0924\u094d\u0924\u093e"
+            ],
+            "transliterations": [
+                "kutt\u0101"
+            ]
+        },
+        "\ud83d\udc26": {
+            "orths": [
+                "\u092a\u0915\u094d\u0937\u0940"
+            ],
+            "transliterations": [
+                "pak\u1e63\u012b"
+            ]
+        },
+        "\ud83e\udd86": {
+            "orths": [
+                "\u092c\u0924\u094d\u0924\u0916"
+            ],
+            "transliterations": [
+                "battakh"
+            ]
+        },
+        "\ud83d\udc2e": {
+            "orths": [
+                "\u0917\u093e\u092f"
+            ],
+            "transliterations": [
+                "g\u0101y"
+            ]
+        },
+        "\ud83d\udc34": {
+            "orths": [
+                "\u0918\u094b\u0921\u093c\u093e"
+            ],
+            "transliterations": [
+                "gho\u1e5b\u0101"
+            ]
+        },
+        "\ud83d\udc37": {
+            "orths": [
+                "\u0938\u0942\u0905\u0930"
+            ],
+            "transliterations": [
+                "s\u016b'ar"
+            ]
+        },
+        "\ud83d\udc14": {
+            "orths": [
+                "\u092e\u0941\u0930\u094d\u0917\u093e"
+            ],
+            "transliterations": [
+                "murg\u0101"
+            ]
+        },
+        "\ud83d\udc11": {
+            "orths": [
+                "\u092d\u0947\u0921\u093c"
+            ],
+            "transliterations": [
+                "bhe\u1e5b"
+            ]
+        }
+    },
+    "spa": {
+        "\ud83d\udc31": {
+            "orths": [
+                "gato"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc36": {
+            "orths": [
+                "perro"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc26": {
+            "orths": [
+                "p\u00e1jaro"
+            ],
+            "transliterations": []
+        },
+        "\ud83e\udd86": {
+            "orths": [
+                "pato"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc2e": {
+            "orths": [
+                "vaca"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc34": {
+            "orths": [
+                "caballo"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc37": {
+            "orths": [
+                "cerdo"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc14": {
+            "orths": [
+                "pollo"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc11": {
+            "orths": [
+                "oveja"
+            ],
+            "transliterations": []
+        }
+    },
+    "fra": {
+        "\ud83d\udc31": {
+            "orths": [
+                "chat"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc36": {
+            "orths": [
+                "chien"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc26": {
+            "orths": [
+                "oiseau"
+            ],
+            "transliterations": []
+        },
+        "\ud83e\udd86": {
+            "orths": [
+                "canard"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc2e": {
+            "orths": [
+                "vache"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc34": {
+            "orths": [
+                "cheval"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc37": {
+            "orths": [
+                "cochon"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc14": {
+            "orths": [
+                "poulet"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc11": {
+            "orths": [
+                "mouton"
+            ],
+            "transliterations": []
+        }
+    },
+    "ara": {
+        "\ud83d\udc31": {
+            "orths": [
+                "\u0642\u0637"
+            ],
+            "transliterations": [
+                "qa\u1e6d"
+            ]
+        },
+        "\ud83d\udc36": {
+            "orths": [
+                "\u0643\u0644\u0628"
+            ],
+            "transliterations": [
+                "kalb"
+            ]
+        },
+        "\ud83d\udc26": {
+            "orths": [
+                "\u0637\u0627\u0626\u0631"
+            ],
+            "transliterations": [
+                "\u1e6d\u0101\u02beir"
+            ]
+        },
+        "\ud83e\udd86": {
+            "orths": [
+                "\u0628\u0637\u0629"
+            ],
+            "transliterations": [
+                "batta"
+            ]
+        },
+        "\ud83d\udc2e": {
+            "orths": [
+                "\u0628\u0642\u0631\u0629"
+            ],
+            "transliterations": [
+                "baqrah"
+            ]
+        },
+        "\ud83d\udc34": {
+            "orths": [
+                "\u062d\u0635\u0627\u0646"
+            ],
+            "transliterations": [
+                "\u1e25i\u1e63\u0101n"
+            ]
+        },
+        "\ud83d\udc37": {
+            "orths": [
+                "\u062e\u0646\u0632\u064a\u0631"
+            ],
+            "transliterations": [
+                "khinz\u012br"
+            ]
+        },
+        "\ud83d\udc14": {
+            "orths": [
+                "\u062f\u062c\u0627\u062c\u0629"
+            ],
+            "transliterations": [
+                "daj\u0101jah"
+            ]
+        },
+        "\ud83d\udc11": {
+            "orths": [
+                "\u062e\u0631\u0648\u0641"
+            ],
+            "transliterations": [
+                "khur\u016bf"
+            ]
+        }
+    },
+    "ben": {
+        "\ud83d\udc31": {
+            "orths": [
+                "\u09ac\u09bf\u09a1\u09bc\u09be\u09b2"
+            ],
+            "transliterations": [
+                "bi\u1e5b\u0101la"
+            ]
+        },
+        "\ud83d\udc36": {
+            "orths": [
+                "\u0995\u09c1\u0995\u09c1\u09b0"
+            ],
+            "transliterations": [
+                "kukur"
+            ]
+        },
+        "\ud83d\udc26": {
+            "orths": [
+                "\u09aa\u09be\u0996\u09bf"
+            ],
+            "transliterations": [
+                "pakhi"
+            ]
+        },
+        "\ud83e\udd86": {
+            "orths": [
+                "\u09b9\u09be\u0981\u09b8"
+            ],
+            "transliterations": [
+                "haans"
+            ]
+        },
+        "\ud83d\udc2e": {
+            "orths": [
+                "\u0997\u09be\u09ad\u09c0"
+            ],
+            "transliterations": [
+                "gabhi"
+            ]
+        },
+        "\ud83d\udc34": {
+            "orths": [
+                "\u0998\u09cb\u09a1\u09bc\u09be"
+            ],
+            "transliterations": [
+                "ghoda"
+            ]
+        },
+        "\ud83d\udc37": {
+            "orths": [
+                "\u09b6\u09c2\u0995\u09b0"
+            ],
+            "transliterations": [
+                "shukor"
+            ]
+        },
+        "\ud83d\udc14": {
+            "orths": [
+                "\u09ae\u09c1\u09b0\u0997\u09bf"
+            ],
+            "transliterations": [
+                "muragi"
+            ]
+        },
+        "\ud83d\udc11": {
+            "orths": [
+                "\u09ae\u09c7\u09b7"
+            ],
+            "transliterations": [
+                "m\u0113\u1e63a"
+            ]
+        }
+    },
+    "ptg": {
+        "\ud83d\udc31": {
+            "orths": [
+                "gato"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc36": {
+            "orths": [
+                "c\u00e3o"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc26": {
+            "orths": [
+                "p\u00e1ssaro"
+            ],
+            "transliterations": []
+        },
+        "\ud83e\udd86": {
+            "orths": [
+                "pato"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc2e": {
+            "orths": [
+                "vaca"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc34": {
+            "orths": [
+                "cavalo"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc37": {
+            "orths": [
+                "porco"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc14": {
+            "orths": [
+                "galinha"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc11": {
+            "orths": [
+                "ovelha"
+            ],
+            "transliterations": []
+        }
+    },
+    "rus": {
+        "\ud83d\udc31": {
+            "orths": [
+                "\u043a\u043e\u0448\u043a\u0430"
+            ],
+            "transliterations": [
+                "koshka"
+            ]
+        },
+        "\ud83d\udc36": {
+            "orths": [
+                "\u0441\u043e\u0431\u0430\u043a\u0430"
+            ],
+            "transliterations": [
+                "sobaka"
+            ]
+        },
+        "\ud83d\udc26": {
+            "orths": [
+                "\u043f\u0442\u0438\u0446\u0430"
+            ],
+            "transliterations": [
+                "ptitsa"
+            ]
+        },
+        "\ud83e\udd86": {
+            "orths": [
+                "\u0443\u0442\u043a\u0430"
+            ],
+            "transliterations": [
+                "utka"
+            ]
+        },
+        "\ud83d\udc2e": {
+            "orths": [
+                "\u043a\u043e\u0440\u043e\u0432\u0430"
+            ],
+            "transliterations": [
+                "korova"
+            ]
+        },
+        "\ud83d\udc34": {
+            "orths": [
+                "\u043b\u043e\u0448\u0430\u0434\u044c"
+            ],
+            "transliterations": [
+                "loshad'"
+            ]
+        },
+        "\ud83d\udc37": {
+            "orths": [
+                "\u0441\u0432\u0438\u043d\u044c\u044f"
+            ],
+            "transliterations": [
+                "svin'ya"
+            ]
+        },
+        "\ud83d\udc14": {
+            "orths": [
+                "\u043a\u0443\u0440\u0438\u0446\u0430"
+            ],
+            "transliterations": [
+                "kuritsa"
+            ]
+        },
+        "\ud83d\udc11": {
+            "orths": [
+                "\u043e\u0432\u0446\u0430"
+            ],
+            "transliterations": [
+                "ovtsa"
+            ]
+        }
+    },
+    "urd": {
+        "\ud83d\udc31": {
+            "orths": [
+                "\u0628\u0644\u06cc"
+            ],
+            "transliterations": [
+                "billi"
+            ]
+        },
+        "\ud83d\udc36": {
+            "orths": [
+                "\u06a9\u062a\u0627"
+            ],
+            "transliterations": [
+                "kutta"
+            ]
+        },
+        "\ud83d\udc26": {
+            "orths": [
+                "\u067e\u0631\u0646\u062f\u06c1"
+            ],
+            "transliterations": [
+                "parinda"
+            ]
+        },
+        "\ud83e\udd86": {
+            "orths": [
+                "\u0628\u0637\u062e"
+            ],
+            "transliterations": [
+                "batkh"
+            ]
+        },
+        "\ud83d\udc2e": {
+            "orths": [
+                "\u06af\u0627\u0626\u06d2"
+            ],
+            "transliterations": [
+                "gaaye"
+            ]
+        },
+        "\ud83d\udc34": {
+            "orths": [
+                "\u06af\u06be\u0648\u0691\u0627"
+            ],
+            "transliterations": [
+                "ghora"
+            ]
+        },
+        "\ud83d\udc37": {
+            "orths": [
+                "\u0633\u0648\u0631"
+            ],
+            "transliterations": [
+                "soor"
+            ]
+        },
+        "\ud83d\udc14": {
+            "orths": [
+                "\u0645\u0631\u063a"
+            ],
+            "transliterations": [
+                "murgh"
+            ]
+        },
+        "\ud83d\udc11": {
+            "orths": [
+                "\u0628\u06be\u06cc\u0691"
+            ],
+            "transliterations": [
+                "bheir"
+            ]
+        }
+    },
+    "idn": {
+        "\ud83d\udc31": {
+            "orths": [
+                "kucing"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc36": {
+            "orths": [
+                "anjing"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc26": {
+            "orths": [
+                "burung"
+            ],
+            "transliterations": []
+        },
+        "\ud83e\udd86": {
+            "orths": [
+                "bebek"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc2e": {
+            "orths": [
+                "sapi"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc34": {
+            "orths": [
+                "kuda"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc37": {
+            "orths": [
+                "babi"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc14": {
+            "orths": [
+                "ayam"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc11": {
+            "orths": [
+                "domba"
+            ],
+            "transliterations": []
+        }
+    },
+    "deu": {
+        "\ud83d\udc31": {
+            "orths": [
+                "katze"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc36": {
+            "orths": [
+                "hund"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc26": {
+            "orths": [
+                "vogel"
+            ],
+            "transliterations": []
+        },
+        "\ud83e\udd86": {
+            "orths": [
+                "ente"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc2e": {
+            "orths": [
+                "kuh"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc34": {
+            "orths": [
+                "pferd"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc37": {
+            "orths": [
+                "schwein"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc14": {
+            "orths": [
+                "huhn"
+            ],
+            "transliterations": []
+        },
+        "\ud83d\udc11": {
+            "orths": [
+                "schaf"
+            ],
+            "transliterations": []
+        }
+    },
+    "jpn": {
+        "\ud83d\udc31": {
+            "orths": [
+                "\u732b"
+            ],
+            "transliterations": [
+                "neko"
+            ]
+        },
+        "\ud83d\udc36": {
+            "orths": [
+                "\u72ac"
+            ],
+            "transliterations": [
+                "inu"
+            ]
+        },
+        "\ud83d\udc26": {
+            "orths": [
+                "\u9ce5"
+            ],
+            "transliterations": [
+                "tori"
+            ]
+        },
+        "\ud83e\udd86": {
+            "orths": [
+                "\u9d28"
+            ],
+            "transliterations": [
+                "ahiru"
+            ]
+        },
+        "\ud83d\udc2e": {
+            "orths": [
+                "\u725b"
+            ],
+            "transliterations": [
+                "ushi"
+            ]
+        },
+        "\ud83d\udc34": {
+            "orths": [
+                "\u99ac"
+            ],
+            "transliterations": [
+                "uma"
+            ]
+        },
+        "\ud83d\udc37": {
+            "orths": [
+                "\u8c5a"
+            ],
+            "transliterations": [
+                "buta"
+            ]
+        },
+        "\ud83d\udc14": {
+            "orths": [
+                "\u9d8f"
+            ],
+            "transliterations": [
+                "niwa"
+            ]
+        },
+        "\ud83d\udc11": {
+            "orths": [
+                "\u7f8a"
+            ],
+            "transliterations": [
+                "hitsuji"
+            ]
+        }
+    }
+}
